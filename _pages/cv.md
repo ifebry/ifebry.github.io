@@ -1,5 +1,5 @@
 ---
-layout: archive
+# layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -8,57 +8,38 @@ redirect_from:
 ---
 
 {% include base_path %}
+## Education
+* Ph.D in Computer Science, Coventry University (UK), 2024.
+* M.Sc. in Computer Science and Information Engineering, NTUST (Taiwan), 2013.
+* B.S. in Informatics, Sepuluh Nopember Institute of Technology (Indonesia), 2010.
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Work experience
+### 2023
+- Teaching Assistant (TA) for Introduction to Statistical Methods for Data Science (7089CEM)
+  - Supervisor: [Dr. Nachiketa Chakraborty](https://scholar.google.com/citations?hl=en&user=HTv-0osAAAAJ&view_op=list_works&sortby=pubdate)
+  - Duties: Marking and occasional lab session assistant
+- TA for Machine Learning (7072CEM)
+  - Supervisor: [Dr. Long Chen](https://pureportal.coventry.ac.uk/en/persons/long-chen)
+  - Duties: Marking and occasional lab session assistant
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### 2022-2023
+- Research Assistant (RA) for COP-26 British Council (BC) Trilateral Project (Phase 2)
+  - Title: *Consolidating Data-Driven Wallacea’s Forest Bioenergy Utilisation Route via Stakeholder Empowerment for Sustainable Forest Ecosystem*
+  - PI: Prof. [A. Taufiq Asyhari](https://research.monash.edu/en/persons/taufiq-asyhari) (Birmingham City University, Monash University)
+  - Roles: Researcher, Fullstack Developer, and Documentation.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+### 2020-2021
+- RA for COP-26 BC Trilateral Project ([Phase 1](https://www.britishcouncil.jp/en/summary-cop26-trilateral-research-initiative-project-3))
+  - Title: *Scaling-up Indonesian Bioenergy Potential through Assessment of Wallacea’s Plant Species: Data-Driven Energy Harvesting and Community-Centred Approach*
+  - PI: Dr. [A. Taufiq Asyhari](https://research.monash.edu/en/persons/taufiq-asyhari) (Birmingham City University)
+  - Roles: Researcher, Fullstack Developer, and Documentation.
+  - Shortlisted for second-round funding extension 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Awards
+- Best Presenter at the 2022 IEEE ICIM conference, Cambridge, UK (co-awarded with Dr. Moad Idrissi).
+- PhD Full Scholarship from the Ministry of Research, Technology, and Higher Education of Indonesia (2020-2024).
+- Master's Degree Studentship from National Taiwan University of Science and Technology (NTUST) (2011-2013).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Professional memberships
+- **ACM** - Professional member (2023 - now).
+- **IEEE** - Graduate student member (2021-2022).
