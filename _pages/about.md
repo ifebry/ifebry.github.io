@@ -14,6 +14,9 @@ My main research interests are network-enabled systems for underlying data-drive
 
 ## News
 ### 2024
+- November
+  - I presented my co-authored paper at the [2024 IEEE ICVEE](https://icvee.conference.unesa.ac.id).
+  - My co-authored paper was accepted and invited for presentation at the [2024 IEEE COMNETSAT](https://comnetsat.org).
 - September - My research team and I hosted [Prof. Nobuo Funabiki](https://www.cc.okayama-u.ac.jp/funabiki/English_HP/index.html) (Okayama University)'s visit to our department. We had a technical discussion on our research project.
 - August - I completed my TPC Member duty for the [2024 IEEE ISCT Conference](https://isct.ctsoc.id/) in Bali, Indonesia. I also chaired one of the technical sessions on the day. This conference is one of the IEEE CTSoc Global's flagship conferences.
 - May - I gave a seminar talk at my department. On this occasion, I shared my experience in developing and deploying a Deep Learning-based application in [one of my past projects](https://www.britishcouncil.jp/en/summary-cop26-trilateral-research-initiative-project-3).
